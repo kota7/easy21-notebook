@@ -4,6 +4,8 @@
 # trial notebook on the root
 /*.ipynb
 
+# notebook results
+notebook/result
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
