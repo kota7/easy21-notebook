@@ -15,3 +15,21 @@ This repository covers following methodologies (items with * are not in the orig
 1. Linear function approximation (TBA)
 1. Deep Q-network* (TBA)
 1. Policy gradient* (TBA)
+
+
+## Setup
+
+Create anaconda environment with the yaml file.
+
+```bash
+$ conda create env -f environment.yml
+```
+
+## Run notebook
+
+Start jupyter and open notebooks.
+
+```bash
+$ conda activate easy21
+$ jupyter notebook
+```
