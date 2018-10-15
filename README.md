@@ -11,7 +11,7 @@ This repository covers following methodologies (items with * are not in the orig
 1. [Dynamic programming](https://nbviewer.jupyter.org/github/kota7/easy21-notebook/blob/master/notebook/1_dynamic-programming.ipynb)*
 1. [Monte Carlo](https://nbviewer.jupyter.org/github/kota7/easy21-notebook/blob/master/notebook/3_montecarlo.ipynb)
 1. [Temporal Difference](https://nbviewer.jupyter.org/github/kota7/easy21-notebook/blob/master/notebook/4_temporal-difference.ipynb)*
-1. TD(&#955;) (TBA)
+1. [TD(&#955;)](https://nbviewer.jupyter.org/github/kota7/easy21-notebook/blob/master/notebook/5_td-lambda.ipynb)
 1. Linear function approximation (TBA)
 1. Deep Q-network* (TBA)
 1. Policy gradient* (TBA)
