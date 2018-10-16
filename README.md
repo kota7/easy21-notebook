@@ -18,14 +18,14 @@ David Silver's [Reinforcement Learning course](http://www0.cs.ucl.ac.uk/staff/d.
 * [TD(&#955;)](https://nbviewer.jupyter.org/github/kota7/easy21-notebook/blob/master/notebook/5_td-lambda.ipynb)
 
 
-### Function approximation method
+### Function approximation methods
 
 * Linear function approximation (TBA)
 * Deep Q-network* (TBA)
 * Policy gradient* (TBA)
 
 
-### Tree search method
+### Tree search methods
 
 * [Monte carlo tree search](https://nbviewer.jupyter.org/github/kota7/easy21-notebook/blob/master/notebook/6_monte-carlo-tree-search.ipynb)*
 
