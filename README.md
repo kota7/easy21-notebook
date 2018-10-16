@@ -25,7 +25,7 @@ This repository covers following methodologies (items with * are not in the orig
 
 ## Tree search method
 
-* [Monte carlo tree search](https://nbviewer.jupyter.org/github/kota7/easy21-notebook/blob/master/notebook/6_monte-carlo-tree-search.ipynb)
+* [Monte carlo tree search](https://nbviewer.jupyter.org/github/kota7/easy21-notebook/blob/master/notebook/6_monte-carlo-tree-search.ipynb)*
 
 
 ## Setup
