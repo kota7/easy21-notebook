@@ -20,8 +20,7 @@ David Silver's [Reinforcement Learning course](http://www0.cs.ucl.ac.uk/staff/d.
 
 ### Function approximation methods
 
-* [Linear TD(0)](https://nbviewer.jupyter.org/github/kota7/easy21-notebook/blob/master/notebook/7_linear-approx-td.ipynb)*
-* Linear TD(&#955;) (TBA)
+* [Linear TD(&#955;)](https://nbviewer.jupyter.org/github/kota7/easy21-notebook/blob/master/notebook/7_linear-approx-td.ipynb)*
 * Policy gradient* (TBA)
 * Deep Q-network* (TBA)
 
