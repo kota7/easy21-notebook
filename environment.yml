@@ -1,16 +1,25 @@
 name: easy21
 channels:
   - pytorch
+  - conda-forge
   - defaults
 dependencies:
+  - jupyter_contrib_core=0.3.3=py_2
+  - jupyter_contrib_nbextensions=0.5.0=py36_1000
+  - jupyter_highlight_selected_word=0.2.0=py36_1000
+  - jupyter_latex_envs=1.4.4=py36_1000
+  - jupyter_nbextensions_configurator=0.4.0=py36_1000
+  - libxslt=1.1.32=h88dbc4e_2
+  - lxml=4.2.5=py36hc9114bc_0
   - _tflow_select=2.3.0=mkl
   - absl-py=0.5.0=py36_0
   - astor=0.7.1=py36_0
+  - autopep8=1.4=py36_0
   - backcall=0.1.0=py36_0
   - blas=1.0=mkl
   - bleach=3.0.0=py36_0
   - ca-certificates=2018.03.07=0
-  - certifi=2018.8.24=py36_1
+  - certifi=2018.10.15=py36_0
   - cffi=1.11.5=py36he75722e_1
   - cycler=0.10.0=py36_0
   - dbus=1.13.2=h714fa37_1
@@ -88,6 +97,7 @@ dependencies:
   - prompt_toolkit=2.0.5=py36_0
   - protobuf=3.6.0=py36hf484d3e_0
   - ptyprocess=0.6.0=py36_0
+  - pycodestyle=2.4.0=py36_0
   - pycparser=2.19=py36_0
   - pygments=2.2.0=py36_0
   - pyparsing=2.2.2=py36_0
@@ -132,4 +142,6 @@ dependencies:
   - pytorch=0.4.1=py36_py35_py27__9.0.176_7.1.2_2
   - torchvision=0.2.1=py36_1
   - pip:
+    - keras-rl==0.4.2
     - torch==0.4.1.post2
+
